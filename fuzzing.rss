@@ -6,13 +6,13 @@
     <description>This is a sample RSS feed for demonstration purposes.</description>
     <language>en-us</language>
     <pubDate>Tue, 10 Oct 2023 10:00:00 GMT</pubDate>
-    <item id=d759dcdeab020dd28ff2386e2bf6fed7>
+    <item id="d759dcdeab020dd28ff2386e2bf6fed7">
       <title>img src=x onerror=alert(1)</title>
       <link>https://www.example.com/articles/first</link>
       <description>This is the first article in the sample RSS feed.</description>
       <pubDate>Tue, 10 Oct 2023 09:00:00 GMT</pubDate>
     </item>
-    <item id=d759dcdeab020dd28ff2386e2bf6fed8>
+    <item id="d759dcdeab020dd28ff2386e2bf6fed8">
       <title>Second Article</title>
       <link>https://www.example.com/articles/second</link>
       <description>This is the second article in the sample RSS feed.</description>
