@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>img src=x onerror=alert(1)</title>
     <link>https://www.example.com</link>
     <description>This is a sample RSS feed for demonstration purposes.</description>
     <language>en-us</language>
     <pubDate>Tue, 10 Oct 2023 10:00:00 GMT</pubDate>
-    <item id="d759dcdeab020dd28ff2386e2bf6fed7">
+    <item>
       <title>img src=x onerror=alert(1)</title>
+      <guid isPermaLink="false">Qi02bB5NQJAUtnrUNV5cqIuw9JeCVs1N</guid>
       <link>https://www.example.com/articles/first</link>
       <description>This is the first article in the sample RSS feed.</description>
       <pubDate>Tue, 10 Oct 2023 09:00:00 GMT</pubDate>
     </item>
-    <item id="d759dcdeab020dd28ff2386e2bf6fed8">
+    <item>
       <title>Second Article</title>
+      <guid isPermaLink="false">Qi02bB5NQJAUtnrUNV5cqIuw9JeCVs1M</guid>
       <link>https://www.example.com/articles/second</link>
       <description>This is the second article in the sample RSS feed.</description>
       <pubDate>Tue, 10 Oct 2023 08:00:00 GMT</pubDate>
